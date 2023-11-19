@@ -1,0 +1,12 @@
+import turtle
+t = turtle. Turtle()
+turtle.bgcolor("black")
+t.pencolor("gold")
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.back(200)
+t.speed(20)
+turtle.done()

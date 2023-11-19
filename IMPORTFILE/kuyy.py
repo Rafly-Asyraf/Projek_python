@@ -1,0 +1,1 @@
+data="hay gays bertemu lagi dengan saya"
